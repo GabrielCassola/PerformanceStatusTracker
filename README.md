@@ -13,7 +13,7 @@ O Performance Status Tracker foi criado para oferecer visibilidade em tempo real
 
 ## 🌐 Acesso ao dashboard
 
-🔗 Link do sistema: **[]**
+🔗 Link do sistema: **[https://mindsightperformancetracker.streamlit.app]**
 
 ## 🚀 Funcionalidades
 
